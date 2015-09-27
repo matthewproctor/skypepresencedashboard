@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  *
  * Matthew Proctor's Presence Dashboard
  * Functions to sort the presence tiles - by name and status/presence 

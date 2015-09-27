@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  *
  * Matthew Proctor's Presence Dashboard
  * Functions to expand and collapse the left-side navbar
